@@ -1,7 +1,8 @@
-
-/*
-2016-03-14  Iwonka utworzenie skryptu tworzącego tabele
-*/
+/********************************************************************************************/
+/* Author:    Iwona Maraśkiewicz                                                       	    */
+/* Date:    14-Mar-2016                                                              	      */
+/* Description:  Utworzenie skryptu tworzącego tabele                                       */ 
+/********************************************************************************************/
 
 
 CREATE	TABLE walenmar_PORTMONETKI.WALLET
